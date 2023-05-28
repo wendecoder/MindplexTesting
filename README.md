@@ -1,4 +1,4 @@
-**A simple python script(selenium) for testing mindplex website signup button**
+**A simple python script(selenium) for testing mindplex website**
 ---
 **how to use**
 - clone this repo
