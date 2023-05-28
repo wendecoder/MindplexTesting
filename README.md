@@ -1,4 +1,4 @@
-**A simple python script(selenium) for testing mindplex website**
+**A simple python script(selenium) for testing mindplex staging website**
 ---
 **how to use**
 - clone this repo
