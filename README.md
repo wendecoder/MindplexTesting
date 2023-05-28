@@ -2,5 +2,5 @@
 ---
 **how to use**
 - clone this repo
-- set environment vairables for geckoderiver and firefox binary path using names used inside the code(GECKODRIVER_PATH, FIREFOX_BINARY_PATH)
+- set environment vairables for geckodriver and firefox binary paths using names used inside the code(GECKODRIVER_PATH, FIREFOX_BINARY_PATH)
 - run the script
