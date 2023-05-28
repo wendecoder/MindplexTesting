@@ -16,3 +16,6 @@ driver.get("https://staging.mindplex.ai/")
 button = driver.find_element(By.ID, "signup")
 time.sleep(15)
 button.click()
+
+popup = driver.find_element(By.ID, "signupModal")
+assert popup.is_displayed()
